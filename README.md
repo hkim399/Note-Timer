@@ -13,3 +13,6 @@ How to install this chrome extension.
 4. Click Load unpacked and click Note-Timer folder and click Select Folder
 
 Tip: Pin Note-Timer so it is easier to access it.
+
+
+Based on CodeX Talks Chrome Timer Extension with addition to extra text copy features.
